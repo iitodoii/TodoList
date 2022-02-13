@@ -1,0 +1,27 @@
+
+
+label{
+    display: inline-block;
+    margin:10px;
+}
+
+input{
+    border: 1px solid #dedede;
+    border-radius: 2px;
+    display:block;
+    font-size: 16px;
+    padding:10px;
+    margin:10px 0px;
+    width: 100%;
+}
+
+.btn-success{
+    /* background-color: green; */
+    /* color:#fff; */
+    cursor: pointer;
+    display: block;
+    margin:10px 0px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+}
