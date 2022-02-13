@@ -78,7 +78,7 @@ function App() {
                     <div>
                         <ul className="horizontal-menu">
                             <li>
-                                <Link to="/">Report Context</Link>
+                                <Link to="/">Report Information</Link>
                             </li>
                             <li>
                                 <Link to="/transactions">Transactions</Link>
